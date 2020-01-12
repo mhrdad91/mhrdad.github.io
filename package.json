@@ -1,0 +1,15 @@
+{
+  "name": "mhrdad.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass scss -o scss"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
